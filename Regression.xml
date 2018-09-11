@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+       
+       <class name="EPCTestCases.TC_EPC_001_Login"/>
+       <class name="EPCTestCases.TC_EPC_002_Logout"/>
+      <class name="EPCTestCases.TC_EPC_003_GlobalSearchItem"/>
+      <class name="EPCTestCases.TC_EPC_004_GoToBasket"/>
+       <class name="EPCTestCases.TC_EPC_005_EnterOrderReferenceNumber"/>
+       <class name="EPCTestCases.TC_EPC_006_NavigatingToPlacedOrders"/>
+      <class name="EPCTestCases.TC_EPC_007_NavigatingToMyAccounts"/>
+      <class name="EPCTestCases.TC_EPC_008_NavigatingToPendingOrders"/>
+      <class name="EPCTestCases.TC_EPC_009_NavigatingToSavedBaskets"/>
+      <class name="EPCTestCases.TC_EPC_010_NavigatingToMessagesPage"/>
+      <class name="EPCTestCases.TC_EPC_011NavigatingToHomePage"/>
+      <class name="EPCTestCases.TC_EPC_012_SelectingAccount"/>
+      <class name="EPCTestCases.TC_EPC_013_SelectingOrderType"/>
+      <class name="EPCTestCases.TC_EPC_014_ChangeImage"/>
+  
+      
+
+  
+      
+   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
